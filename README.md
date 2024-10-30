@@ -1,5 +1,5 @@
 ## Olá eu me chamo Yuri Cardoso
-Sou programador Front-End e Mobile
+Sou desenvolvedor Front-End e Mobile
 --->
 - 🔭 Estudante de Ciência da Computação | Pós Graduação Engenharia de Software
 - 📫 yuricardoso.dev@proton.me
