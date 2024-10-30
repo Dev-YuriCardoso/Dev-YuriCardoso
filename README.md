@@ -24,16 +24,6 @@ Sou programador Front-End e Mobile
 
 
 
-
-
-
-
-
-
-
-
-Sou desenvolvedor <strong>Front-End </strong>e <strong>Mobile</strong>
-
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-YuriCardoso&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -53,7 +43,7 @@ Sou desenvolvedor <strong>Front-End </strong>e <strong>Mobile</strong>
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <!-- <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">-->
-   
+   <!--
    </div>
     
   <!--
@@ -69,4 +59,4 @@ Sou desenvolvedor <strong>Front-End </strong>e <strong>Mobile</strong>
     </a>
 </div>
   
-![Snake animation](https://github.com/Dev-YuriCardoso/Dev-YuriCardoso/blob/output/github-contribution-grid-snake.svg)-->
+<!-- ![Snake animation](https://github.com/Dev-YuriCardoso/Dev-YuriCardoso/blob/output/github-contribution-grid-snake.svg)-->
